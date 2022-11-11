@@ -4,7 +4,7 @@ export const AboutWrapper = styled.div`
 	width: 100%;
 	height: max-content;
 	padding: 50px 0;
-	background: linear-gradient(var(--white) , var(--lightwhite) );
+	background: linear-gradient(var(--white) 30%, #d4d4d4 );
 `;
 export const AboutContainer = styled.h2`
 	display: flex;
