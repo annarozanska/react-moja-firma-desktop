@@ -10,7 +10,7 @@ export const OfferContainer = styled.div`
 	display: flex;
 	align-items: flex-start;
 	flex-direction: column;
-	width: 96%;
+	width: 960px;
 	padding-top: 20px;
 	margin: 0 auto;
 `;

@@ -11,7 +11,7 @@ export const FooterContainer = styled.div`
 	flex-direction: row;
 	justify-content: space-between;
 	align-items: center;
-	width: 96%;
+	width: 960px;
 	height: 60px;
 	margin: 0 auto;
 `;

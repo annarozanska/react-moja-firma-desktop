@@ -10,7 +10,7 @@ export const NavbarContainer = styled.div`
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	width: 96%;
+	width: 960px;
 	height: 50px;
 	margin: 0 auto;
 `;

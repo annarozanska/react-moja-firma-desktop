@@ -11,7 +11,7 @@ export const AboutContainer = styled.h2`
 	flex-direction: column;
 	justify-content: space-around;
 	align-items: flex-start;
-	width: 96%;
+	width: 960px;
 	margin: 0 auto;
 `;
 export const AboutH2 = styled.h2`

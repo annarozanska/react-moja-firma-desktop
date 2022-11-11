@@ -31,7 +31,7 @@ export const HeroContent = styled.div`
 	flex-direction: column;
 	justify-content: center;
 	align-items: flex-start;
-	width: 96%;
+	width: 960px;
 	height: auto;
 	position: absolute;
 	top: 50%;
