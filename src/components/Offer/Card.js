@@ -6,8 +6,8 @@ const Card = (props) => {
 		<div>
 			<OfferBox>
 				<p>{props.title}</p>
-				{props.id === 1 ? <p>(nowość)</p> : null}
-				{props.id === 1 ? <div></div> : null}
+				{props.isNew ? <p>(nowość)</p> : null}
+				{props.isNew ? <div></div> : null}
 			</OfferBox>
 		</div>
 	);

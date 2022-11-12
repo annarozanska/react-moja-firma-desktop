@@ -11,7 +11,7 @@ const Offer = () => {
 					<OfferH2>Czym zajmuje się nasza firma?</OfferH2>
 					<OfferWrapper>
 						{data.map((val, index) => {
-							return <Card key={index} id={val.id} title={val.title} />;
+							return <Card key={index} id={val.id} title={val.title} isNew={val.isNew}/>;
 						})}
 					</OfferWrapper>
 				</OfferContainer>
