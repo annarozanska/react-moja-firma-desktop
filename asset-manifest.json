@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/react-moja-firma-desktop/static/js/main.0b4cffd2.js",
+    "main.js": "/react-moja-firma-desktop/static/js/main.c11d29a7.js",
     "static/media/forest.mp4": "/react-moja-firma-desktop/static/media/forest.0a9bf1699bd7c531c127.mp4",
     "index.html": "/react-moja-firma-desktop/index.html",
-    "main.0b4cffd2.js.map": "/react-moja-firma-desktop/static/js/main.0b4cffd2.js.map"
+    "main.c11d29a7.js.map": "/react-moja-firma-desktop/static/js/main.c11d29a7.js.map"
   },
   "entrypoints": [
-    "static/js/main.0b4cffd2.js"
+    "static/js/main.c11d29a7.js"
   ]
 }
