@@ -6,8 +6,12 @@ const Card = (props) => {
 		<div>
 			<OfferBox>
 				<p>{props.title}</p>
-				{props.isNew ? <p>(nowość)</p> : null}
-				{props.isNew ? <div></div> : null}
+				{props.isNew ? (
+					<React.Fragment>
+						<p>(nowość)</p>
+						<div></div>
+					</React.Fragment>
+				) : null}
 			</OfferBox>
 		</div>
 	);
